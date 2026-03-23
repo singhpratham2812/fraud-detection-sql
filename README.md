@@ -209,8 +209,8 @@ The CTE-based model in Query 11 scores every transaction using 5 signals:
 | 1 | E-Commerce Refund Abuse Tracker | Excel | ✅ Complete |
 | 2 | Support Team KPI Dashboard | Excel | ✅ Complete |
 | 3 | Fraud Detection SQL Case Study | MySQL | ✅ Complete |
-| 4 | EdTech Cohort & Retention Analysis | Power BI + DAX | ✅ Complete |
-| 5 | ATO Pattern Detection | Python + pandas | ✅ Complete |
+| 4 | EdTech Cohort & Retention Analysis | Power BI + DAX | 📅 Planned |
+| 5 | ATO Pattern Detection | Python + pandas | 📅 Planned |
 
 ---
 
@@ -220,4 +220,3 @@ The CTE-based model in Query 11 scores every transaction using 5 signals:
 
 - Email: pratham.singh2800@gmail.com
 - LinkedIn: [linkedin.com/in/prathamsingh9996](https://www.linkedin.com/in/prathamsingh9996/)
-- Dataset: [Kaggle — PaySim Financial Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
